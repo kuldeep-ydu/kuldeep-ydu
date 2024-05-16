@@ -4,7 +4,7 @@ MERN Stack Project for Online Movie Ticket Booking.
 
 The live version of the project is accessible at:
 
-server : "https://bookmyshow-project-4ldv.onrender.com/api/booking"
+server : "https://bookmyshow-project-4lky.onrender.com/api/booking"
 client : "https://book-my-show-project-kuldeep-ydu.vercel.app/"
 
 Introduction
