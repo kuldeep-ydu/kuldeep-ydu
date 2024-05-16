@@ -1,14 +1,18 @@
 Book My Show
+
 MERN Stack Project for Online Movie Ticket Booking.
 
 The live version of the project is accessible at:
 
 server : "https://bookmyshow-project-4ldv.onrender.com/api/booking"
-client : "https://book-my-show-project-devanshugoyal27.vercel.app/"
+client : "https://book-my-show-project-kuldeep-ydu.vercel.app/"
+
 Introduction
+
 Welcome to the BookMyShow project, a sophisticated web application facilitating seamless online movie ticket booking. Users can effortlessly peruse available movies, select preferred showtimes, and book desired seats. The project employs both local storage and MongoDB for temporary and permanent data storage, respectively.
 
 Features
+
 Browse a curated list of available movies with detailed information, including movie names and showtimes.
 Select a movie and explore available showtimes for a personalized cinema experience.
 Reserve seats for a selected showtime effortlessly.
@@ -25,7 +29,7 @@ Clone And Run
 Clone the repository from GitHub:
 
 # Clone this repository
-$ git clone https://github.com/devanshugoyal27/BookMyShow-Project.git
+$ git clone https://github.com/kuldeep-ydu/BookMyShow-Project.git
 
 # Navigate into the repository
 $ cd BookMyShow-Project
